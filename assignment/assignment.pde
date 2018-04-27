@@ -36,6 +36,14 @@ void draw() {
   strokeWeight(5); //Semi thick
   fill(205, 246, 3);
   ellipse(325, 325, 150, 150);
+  //Circle face and its colours and stroke
+  
+  fill(0, 0, 0);
+  ellipse(300, 300, 45, 50);
+  
+  fill(0, 0, 0);
+  ellipse(355, 300, 45, 50);
+  
  
   
   
